@@ -1,3 +1,6 @@
+Note: The pure Dockerfile based approach here is replaced by a clj-new based approach to generate a skeleton project with
+all dependencies for Clojisr and libpython-clj including a Dockerfile. See here: https://github.com/behrica/clj-py-r-template
+
 # Clojure data science with clojure + R + python
 Doing data science projects with clojure requires from time to time to tap into the existing libraries of R and python.
 
